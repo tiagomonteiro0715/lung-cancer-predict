@@ -1,16 +1,5 @@
 # lung-cancer-predict
 
-# Project's Title
-
------
-
-This prohect is a template that serves and a basic structure for good README files
-
------
-
-
-
-
 Place here image related to the projects
 
 
