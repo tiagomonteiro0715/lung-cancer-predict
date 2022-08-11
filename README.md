@@ -13,10 +13,11 @@ https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 ---------------------------------------------------------------------------------------------------------
 
 ### What your application does?
+ 
+This project uses this [dataset](https://www.kaggle.com/datasets/nancyalaswad90/lung-cancer) to build an artificial neural network that predicts whether or not a particular person will develop lung cancer. A total of 15 parameters were considered. A few examples are: smoking, age anxiety, and shortness of breath...
 
-This projects uses this [Dataset](https://www.kaggle.com/datasets/nancyalaswad90/lung-cancer) to build an artificial neural netowkr that predicts if a certan person will get lung cancer or not. based on 15 parameters. Some are: smoking, age anxiety shortness of breath...
- 
- 
+
+
 ### Why you used the technologies you used?
 
 I used 3 python libraries and a framework:
@@ -36,9 +37,6 @@ The torch lubrary was used, because it is the framework [most used](https://pape
 ### Some of the challenges you faced and features you hope to implement in the future?
 
 The biggest challenge so far is understanding the size of the neural netowrk, since this is my first by my own machine learning project.
-
-
------
 
 
 -----
